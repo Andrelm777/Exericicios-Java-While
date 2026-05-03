@@ -8,7 +8,7 @@ public class CalcularMediaAritimetica {
 		int contador = 0;
 		int soma = 0;
 		 
-		while (contador < 3 ) {
+		while (contador < 10 ) {
 			
 			System.out.println("Digite um numero");
 			int numero = entrada.nextInt();
